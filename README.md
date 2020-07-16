@@ -1,9 +1,8 @@
 ### Hello, I'm M. Bagas Pradana! 👋
 
-lorem ipsum
+hello my name is muhammad bagas pradana, i love the IT world since i was a kid, i finally made it to my favorite study program
 
 ---
-
 **Learning:**
 
 <a href="https://www.w3schools.com/js/" title="Javascript"><img width="60 px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJEbWD-UYXqKObG3dPK0J3wWKmbmWHwwXs9g&usqp=CAU" /></a>
@@ -23,6 +22,8 @@ lorem ipsum
 <a href="https://fontawesome.com/v4.7.0" title="fontawesome"><img width="49 px"  src="https://i0.wp.com/blog.fontawesome.com/wp-content/uploads/2019/07/avatar-blue-scale-0.5@2x.png?fit=1%2C1&ssl=1" /></a>
 <a href="https://wiki.python.org/moin/PyQt" title="QT5"><img width="60 px"  src="https://banner2.cleanpng.com/20180609/xs/kisspng-qt-creator-qt-quick-the-qt-company-posted-write-5b1b6b4c9e91d6.8202151015285235966495.jpg" /></a>
 <a href="https://materializecss.com/getting-started.html" title="Materialize"><img width="55 px"  src="https://library.kissclipart.com/20181120/fzq/kissclipart-materialize-css-clipart-cascading-style-sheets-css-525adfa0ede8318b.jpg"/></a>
+
+---
 
 - 🔭 I’m currently working on Fractal.
 - 🌱 I’m currently learning Back-end development.
