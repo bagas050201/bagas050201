@@ -1,5 +1,8 @@
 ### Hello, I'm M. Bagas Pradana! 👋
 
+lorem ipsum
+
+---
 
 **Learning:**
 
