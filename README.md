@@ -1,13 +1,5 @@
 ### Hello, I'm M. Bagas Pradana! 👋
 
-- 🔭 I’m currently working on Fractal.
-- 🌱 I’m currently learning Back-end development.
-- 👯 I’m looking to collaborate on Bantu Jajan Teams.
-- 💬 Ask me about Full-stack or any tech related stuff.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/bagaspradana0201), [Twitter](https://twitter.com/bagaspradana05), [Linkedin](https://www.linkedin.com/in/muhammad-bagas-pradana-a12a241a9)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I believe that "if today can be done, why should it be tomorrow?"
-
 
 **Learning:**
 
@@ -28,5 +20,13 @@
 <a href="https://fontawesome.com/v4.7.0" title="fontawesome"><img width="49 px"  src="https://i0.wp.com/blog.fontawesome.com/wp-content/uploads/2019/07/avatar-blue-scale-0.5@2x.png?fit=1%2C1&ssl=1" /></a>
 <a href="https://wiki.python.org/moin/PyQt" title="QT5"><img width="60 px"  src="https://banner2.cleanpng.com/20180609/xs/kisspng-qt-creator-qt-quick-the-qt-company-posted-write-5b1b6b4c9e91d6.8202151015285235966495.jpg" /></a>
 <a href="https://materializecss.com/getting-started.html" title="Materialize"><img width="55 px"  src="https://library.kissclipart.com/20181120/fzq/kissclipart-materialize-css-clipart-cascading-style-sheets-css-525adfa0ede8318b.jpg"/></a>
+
+- 🔭 I’m currently working on Fractal.
+- 🌱 I’m currently learning Back-end development.
+- 👯 I’m looking to collaborate on Bantu Jajan Teams.
+- 💬 Ask me about Full-stack or any tech related stuff.
+- 📫 How to reach me: [Instagram](https://www.instagram.com/bagaspradana0201), [Twitter](https://twitter.com/bagaspradana05), [Linkedin](https://www.linkedin.com/in/muhammad-bagas-pradana-a12a241a9)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I believe that "if today can be done, why should it be tomorrow?"
 
 <img src="https://github-readme-stats.vercel.app/api?username=bagas050201&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
