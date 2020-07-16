@@ -1,11 +1,15 @@
 ### Hello, I'm M. Bagas Pradana! 👋
 
-hello my name is muhammad bagas pradana, i love the IT world since i was a kid, i finally made it to my favorite study program
-
 ---
+
+**Playground**
+
+<a href="https://www.codeabbey.com/index/user_profile/bagaspradana1011" title="Codeabbey"><img width="50 px" height = "40px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-n1I-GXihmcTYBZK5mcQ7-323Sted-ajc3g&usqp=CAU" /></a>
+<a href="https://www.hackerrank.com/bagaspradana0502" title="Hackerank"><img width="60 px" height = "40px"  src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" /></a>
+
 **Learning:**
 
-<a href="https://www.w3schools.com/js/" title="Javascript"><img width="60 px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJEbWD-UYXqKObG3dPK0J3wWKmbmWHwwXs9g&usqp=CAU" /></a>
+<a href="https://www.w3schools.com/js/" title="Javascript"><img width="60 px" height = "40px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJEbWD-UYXqKObG3dPK0J3wWKmbmWHwwXs9g&usqp=CAU" /></a>
 <a href="https://www.ruby-lang.org/en/" title="Ruby "><img width="60 px"  src="https://banner2.cleanpng.com/20180609/vss/kisspng-ruby-on-rails-computer-programming-programming-lan-meppel-5b1c3688d746b1.8695478715285756248818.jpg" /></a>
 
 **Currently working with:**
