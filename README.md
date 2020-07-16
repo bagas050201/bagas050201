@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello, I'm M. Bagas Pradana! 👋
 
 - 🔭 I’m currently working on Fractal.
 - 🌱 I’m currently learning Back-end development.
 - 👯 I’m looking to collaborate on Bantu Jajan Teams.
 - 💬 Ask me about Full-stack or any tech related stuff.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/bagaspradana0201), [Twitter](https://twitter.com/bagaspradana05),[Linkedin](https://www.linkedin.com/in/muhammad-bagas-pradana-a12a241a9)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/bagaspradana0201), [Twitter](https://twitter.com/bagaspradana05), [Linkedin](https://www.linkedin.com/in/muhammad-bagas-pradana-a12a241a9)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I believe that "if today can be done, why should it be tomorrow?"
 
