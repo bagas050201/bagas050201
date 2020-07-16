@@ -9,7 +9,7 @@
 
 **Currently working with:**
 
-<a href="https://jquery.com/" title="Jquery"><img width="65 px" height ="50px"  src="https://f0.pngfuel.com/png/969/723/functional-programming-in-python-computer-programming-programming-language-python-programming-practice-workshop-program-logo-png-clip-art.png" /></a>
+<a href="https://jquery.com/" title="Python"><img width="65 px" height ="50px"  src="https://f0.pngfuel.com/png/969/723/functional-programming-in-python-computer-programming-programming-language-python-programming-practice-workshop-program-logo-png-clip-art.png" /></a>
 <a href="https://jquery.com/" title="Jquery"><img width="65 px" height ="50px"  src="https://1.bp.blogspot.com/-6AVQDPCAXqM/XxAJbNtiRBI/AAAAAAAAALY/ZATuxCAOMNMoLVRkWpf1LKq9k8nhqW4owCLcBGAsYHQ/s1600/7044135.png" /></a>
 <a href="https://mdbootstrap.com/docs/standard/bootstrap-5/" title="Bootstrap 5 Alpha"><img width="55 px"  src="https://camo.githubusercontent.com/0e0adf58c74c6e74bb64ece5d0ef4620f4f46915/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" /></a>
 
