@@ -5,7 +5,7 @@
 **Learning:**
 
 <a href="https://www.w3schools.com/js/" title="Javascript"><img width="60 px" height = "40px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJEbWD-UYXqKObG3dPK0J3wWKmbmWHwwXs9g&usqp=CAU" /></a>
-<a href="https://www.ruby-lang.org/en/" title="Ruby "><img width="60 px"  src="https://banner2.cleanpng.com/20180609/vss/kisspng-ruby-on-rails-computer-programming-programming-lan-meppel-5b1c3688d746b1.8695478715285756248818.jpg" /></a>
+<a href="https://www.r-project.org/about.html" title="R "><img width="60 px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" /></a>
 
 **Currently working with:**
 
