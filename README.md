@@ -5,8 +5,8 @@
 **Learning:**
 
 <a href="https://www.w3schools.com/js/" title="Javascript"><img width="60 px" height = "47px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJEbWD-UYXqKObG3dPK0J3wWKmbmWHwwXs9g&usqp=CAU" /></a>
-<a href="https://www.w3schools.com/js/" title="Javascript"><img width="50 px" height = "47px"  src="https://miro.medium.com/max/288/0*sukDXFCZxYrpK7he.png" /></a>
-<a href="http://es6-features.org/#Constants" title="ECMAScript 6 "><img width="60 px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" /></a>
+<a href="http://es6-features.org/#Constants" title="ECMAScript 6"><img width="50 px" height = "47px"  src="https://miro.medium.com/max/288/0*sukDXFCZxYrpK7he.png" /></a>
+<a href="#" title="R "><img width="60 px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" /></a>
 
 **Currently working with:**
 
