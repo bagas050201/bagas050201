@@ -4,8 +4,7 @@
 
 **Learning:**
 
-<a href="https://www.w3schools.com/js/" title="Javascript"><img width="60 px" height = "47px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJEbWD-UYXqKObG3dPK0J3wWKmbmWHwwXs9g&usqp=CAU" /></a>
-<a href="http://es6-features.org/#Constants" title="ECMAScript 6"><img width="50 px" height = "47px"  src="https://miro.medium.com/max/288/0*sukDXFCZxYrpK7he.png" /></a>
+<a href="https://www.w3schools.com/js/" title="Javascript"><img width="60 px" height = "47px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" /></a>
 <a href="#" title="R "><img width="60 px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" /></a>
 
 **Currently working with:**
@@ -13,6 +12,8 @@
 <a href="https://jquery.com/" title="Python"><img width="65 px" height ="50px"  src="https://f0.pngfuel.com/png/969/723/functional-programming-in-python-computer-programming-programming-language-python-programming-practice-workshop-program-logo-png-clip-art.png" /></a>
 <a href="https://jquery.com/" title="Jquery"><img width="65 px" height ="50px"  src="https://1.bp.blogspot.com/-6AVQDPCAXqM/XxAJbNtiRBI/AAAAAAAAALY/ZATuxCAOMNMoLVRkWpf1LKq9k8nhqW4owCLcBGAsYHQ/s1600/7044135.png" /></a>
 <a href="https://mdbootstrap.com/docs/standard/bootstrap-5/" title="Bootstrap 5 Alpha"><img width="60 px" height = "50px"  src="https://camo.githubusercontent.com/0e0adf58c74c6e74bb64ece5d0ef4620f4f46915/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" /></a>
+<a href="http://es6-features.org/#Constants" title="ECMAScript 6"><img width="50 px" height = "47px"  src="https://miro.medium.com/max/288/0*sukDXFCZxYrpK7he.png" /></a>
+<a href="https://nodejs.org/en/" title="Node.js"><img width="50 px" height = "47px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /></a>
 
 **Previously worked with:**
 
