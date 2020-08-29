@@ -5,7 +5,7 @@
 **Learning:**
 
 <a href="https://www.w3schools.com/js/" title="Javascript"><img width="60 px" height = "47px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" /></a>
-<a href="#" title="R "><img width="60 px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" /></a>
+
 
 **Currently working with:**
 
