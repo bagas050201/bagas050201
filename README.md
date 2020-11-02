@@ -26,9 +26,9 @@
 
 ---
 
-- 🔭 I’m currently working on BantuJajan Teams and Fractal Teams.
-- 🌱 I’m currently learning Back-end development.
-- 💬 Ask me about Full-stack or any tech related stuff.
+- 🔭 I’m currently working on a Football project 
+- 🌱 I’m currently learning Progressive Website Application development
+- 💬 Ask me about Web Development or any tech related stuff.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/bagaspradana0201), [Twitter](https://twitter.com/bagaspradana05), [Linkedin](https://www.linkedin.com/in/muhammad-bagas-pradana-a12a241a9)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I believe that "if today can be done, why should it be tomorrow?"
