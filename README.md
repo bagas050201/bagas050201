@@ -5,6 +5,7 @@
 **Learning:**
 
 <a href="https://www.w3schools.com/js/" title="Javascript"><img width="60 px" height = "47px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" /></a>
+<a href="#" title="React.js"><img width="60 px" height = "47px"  src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png" /></a>
 
 
 **Currently working with:**
@@ -26,8 +27,8 @@
 
 ---
 
-- 🔭 I’m currently working on a Football project 
-- 🌱 I’m currently learning Progressive Website Application development
+- 🔭 I’m currently working on SIPKU project 
+- 🌱 I’m currently learning React.js
 - 💬 Ask me about Web Development or any tech related stuff.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/bagaspradana0201), [Twitter](https://twitter.com/bagaspradana05), [Linkedin](https://www.linkedin.com/in/muhammad-bagas-pradana-a12a241a9)
 - 😄 Pronouns: He/His
