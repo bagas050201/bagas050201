@@ -4,10 +4,7 @@
 
 **Learning:**
 
-<a href="https://www.w3schools.com/js/" title="Javascript"><img width="60 px" height = "47px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" /></a>
-<a href="#" title="React.js"><img width="60 px" height = "47px"  src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png" /></a>
-
-<a href ="#" title="MERN Stack"><img width ="60px" height ="50px" src = "https://www.digifutura.com/wp-content/uploads/2019/10/mern-stack-development-img.png" /></a>
+<a href ="#" title="MERN Stack"><img width="70 px" height = "70px" src = "https://www.digifutura.com/wp-content/uploads/2019/10/mern-stack-development-img.png" /></a>
 
 **Currently working with:**
 
