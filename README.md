@@ -7,6 +7,8 @@
 <a href="https://www.w3schools.com/js/" title="Javascript"><img width="60 px" height = "47px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" /></a>
 <a href="#" title="React.js"><img width="60 px" height = "47px"  src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png" /></a>
 
+<a href ="#" title="MERN Stack"><img width ="60px" height ="50px" src="
+https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/121002887/original/9f2174ec1236e128859a8ad2ff98a5a21a0230b7/sdwdwdwwqwfhijwwfwefh-eif-wehfiwehf-i-hwei.jpg" /></a>
 
 **Currently working with:**
 
