@@ -4,7 +4,7 @@
 
 **Learning:**
 
-<a href ="#" title="MERN Stack"><img width="70 px" height = "70px" src = "https://www.digifutura.com/wp-content/uploads/2019/10/mern-stack-development-img.png" /></a>
+<a href ="#" title="MERN Stack"><img width="100 px" height = "100 px" src = "https://www.digifutura.com/wp-content/uploads/2019/10/mern-stack-development-img.png" /></a>
 
 **Currently working with:**
 
