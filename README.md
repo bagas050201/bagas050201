@@ -9,10 +9,27 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I believe that "if today can be done, why should it be tomorrow?"
 
-<a href="https://github.com/bagas050201">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bagas050201&count_private=true&show_icons=true" />
-</a>
+<details>
+  <summary>Some other facts about me-e-e</summary>
+  <br>
+  <a href="https://github.com/bagas050201">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=bagas050201&count_private=true&show_icons=true" />
+  </a>
 
-<a href="https://github.com/bagas050201">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagas050201" />
-</a>
+  <a href="https://github.com/bagas050201">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagas050201" />
+  </a>
+  <br><br>
+</details>
+
+<hr>
+
+<p align="center">
+  <i>Thank you ^^</i>
+  
+  <p align="center">
+    <a href="http://hits.dwyl.com/bagas050201/bagas050201">
+      <img align="center" src="http://hits.dwyl.com/bagas050201/bagas050201.svg">
+    </a>
+  </p>
+</p>
