@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I believe that "if today can be done, why should it be tomorrow?"
 
 <details>
-  <summary>Some other facts about me-e-e</summary>
+  <summary>Some other facts about me</summary>
   <br>
   <a href="https://github.com/bagas050201">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=bagas050201&count_private=true&show_icons=true" />
@@ -19,11 +19,10 @@
   <a href="https://github.com/bagas050201">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagas050201" />
   </a>
-  <br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 </details>
 
 <hr>
-
 <p align="center">
   <i>Thank you ^^</i>
   
