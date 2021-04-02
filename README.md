@@ -18,7 +18,7 @@
 ---
 
 - 🔭 I’m currently working on SIPKU project 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about Web Development or any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I believe that "if today can be done, why should it be tomorrow?"
