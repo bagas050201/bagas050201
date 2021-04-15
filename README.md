@@ -17,11 +17,12 @@
 
 ---
 
-- 🔭 I’m currently working on SIPKU project 
-- 🌱 I’m currently learning MERN Stack
+- 🔭 I’m currently working on MERN project
+- 🌱 I’m currently learning full stack
 - 💬 Ask me about Web Development or any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I believe that "if today can be done, why should it be tomorrow?"
+- :mag_right: You can see my other profile on : [Linkedin](https://www.linkedin.com/in/muhammad-bagas-pradana-a12a241a9/) | [Dicoding](https://www.dicoding.com/users/muhammadbagaspradana) | [CodeAbbey](https://www.codeabbey.com/index/user_profile/bagaspradana1011)
 
 <details>
   <summary>Some other facts about me</summary>
