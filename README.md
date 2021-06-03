@@ -22,7 +22,7 @@
 - 💬 Ask me about Web Development or any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I believe that "if today can be done, why should it be tomorrow?"
-- :mag_right: You can see my other profile on : [Dicoding](https://www.dicoding.com/users/muhammadbagaspradana) | [CodeAbbey](https://www.codeabbey.com/index/user_profile/bagaspradana1011) | [Website](https://mbagaspradana-a65f1.web.app/)
+- :mag_right: You can see my other profile on : [Dicoding](https://www.dicoding.com/users/muhammadbagaspradana) | [CodeAbbey](https://www.codeabbey.com/index/user_profile/bagaspradana1011) | [Portofolio](https://mbagaspradana-a65f1.web.app/)
 
 <details>
   <summary>Some other facts about me</summary>
