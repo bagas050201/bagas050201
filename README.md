@@ -17,7 +17,7 @@
 
 ---
 
-- 🔭 I’m currently working on ??
+- 🔭 I’m currently working on Bapenda DKI Jakarta
 - 🌱 I’m currently learning full stack
 - 💬 Ask me about Web Development or any tech related stuff.
 - 😄 Pronouns: He/His
