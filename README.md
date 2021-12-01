@@ -15,6 +15,9 @@
 
 </p>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bagas050201&rank=SECRET,S,AAA,AA,A&margin-w=10&margin-h=10&text=justify)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 - 🔭 I’m currently working on Bapenda DKI Jakarta
@@ -27,14 +30,15 @@
 <details>
   <summary>Some other facts about me</summary>
   <br>
+                                                                        
   <a href="https://github.com/bagas050201">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=bagas050201&count_private=true&show_icons=true" />
   </a>
 
   <a href="https://github.com/bagas050201">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagas050201" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagas050201&layout=compact" />
   </a>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 </details>
 
 <hr>
