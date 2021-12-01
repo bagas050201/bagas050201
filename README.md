@@ -38,7 +38,7 @@
   <a href="https://github.com/bagas050201">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagas050201" />
   </a>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </details>
 
 <hr>
