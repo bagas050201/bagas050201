@@ -22,10 +22,8 @@
 
 - 🔭 I’m currently working on Bapenda DKI Jakarta
 - 🌱 I’m currently learning full stack
-- 💬 Ask me about Web Development or any tech related stuff.
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I believe that "if today can be done, why should it be tomorrow?"
-- :mag_right: You can see my other profile on : [Dicoding](https://www.dicoding.com/users/muhammadbagaspradana) | [CodeAbbey](https://www.codeabbey.com/index/user_profile/bagaspradana1011) | [Stack Overflow](https://stackoverflow.com/users/17867702/m-bagas-pradana?tab=summary)
+- :mag_right: You can see my other profile on : [Dicoding](https://www.dicoding.com/users/muhammadbagaspradana) | [CodeAbbey](https://www.codeabbey.com/index/user_profile/bagaspradana1011) | [Stack Overflow](https://stackoverflow.com/users/17867702/m-bagas-pradana?tab=summary) | [Hackerrank](https://www.hackerrank.com/bagaspradana0502?hr_r=1)
 
 <details>
   <summary>Some other facts about me</summary>
