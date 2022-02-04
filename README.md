@@ -43,3 +43,6 @@
 <p align="center">
   <i>Thank you ^^</i>
 </p>
+ 
+                 
+![snake gif](https://github.com/bagas050201/bagas050201/blob/output/github-contribution-grid-snake.gif)
