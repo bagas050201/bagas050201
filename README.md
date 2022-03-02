@@ -16,8 +16,6 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bagas050201&rank=SECRET,S,AAA,AA,A&margin-w=10&margin-h=10&text=justify)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 - 🔭 I’m currently working on Bapenda DKI Jakarta
