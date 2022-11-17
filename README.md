@@ -1,7 +1,7 @@
 <h1 align='center'> Hello, I'm M. Bagas Pradana! 👋 </h1>
 
 <p align='center'>
-  I live on Bekasi, Indonesia and i'm a web developer 
+  I live on Bekasi, Indonesia and i'm a Mobile Engineer
 </p>
 
 <p align='center'>
