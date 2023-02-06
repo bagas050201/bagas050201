@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on Bapenda DKI Jakarta
 - 🌱 I’m currently learning full stack
-- ⚡ Fun fact: I believe that "if today can be done, why should it be tomorrow?"
+- ⚡ Basically not update anymore in github, move to gitlab
 - :mag_right: You can see my other profile on : [Dicoding](https://www.dicoding.com/users/muhammadbagaspradana) | [CodeAbbey](https://www.codeabbey.com/index/user_profile/bagaspradana1011) | [Stack Overflow](https://stackoverflow.com/users/17867702/m-bagas-pradana?tab=summary) | [Hackerrank](https://www.hackerrank.com/bagaspradana0502?hr_r=1)
 
 <details>
