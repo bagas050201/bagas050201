@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on Bapenda DKI Jakarta
 - 🌱 I’m currently learning full stack
 - ⚡ Basically not update anymore in github, move to gitlab
-- :mag_right: You can see my other profile on : [Dicoding](https://www.dicoding.com/users/muhammadbagaspradana) | [CodeAbbey](https://www.codeabbey.com/index/user_profile/bagaspradana1011) | [Stack Overflow](https://stackoverflow.com/users/17867702/m-bagas-pradana?tab=summary) | [Hackerrank](https://www.hackerrank.com/bagaspradana0502?hr_r=1)
+- :mag_right: You can see my other profile on : [Gitlab](https://gitlab.com/bagas050201) | [Dicoding](https://www.dicoding.com/users/muhammadbagaspradana) | [CodeAbbey](https://www.codeabbey.com/index/user_profile/bagaspradana1011) | [Stack Overflow](https://stackoverflow.com/users/17867702/m-bagas-pradana?tab=summary) | [Hackerrank](https://www.hackerrank.com/bagaspradana0502?hr_r=1)
 
 <details>
   <summary>Some other facts about me</summary>
